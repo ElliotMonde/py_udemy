@@ -1,0 +1,2 @@
+use echo to return a string to stdout, and send stdout as input to file using >. \nUse cat <filename> to read file to stdout
+>> appends the data to the file while > overwrites.
